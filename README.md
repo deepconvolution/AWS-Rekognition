@@ -22,12 +22,12 @@
 
 ## Start with aws CLI
 - Create a aws S3 bucket
-- ![alt text](images/Screenshot from 2018-02-07 02-09-34.png)
-- ![alt text](images/Screenshot from 2018-02-07 02-16-14.png)
-- ![alt text](images/Screenshot from 2018-02-07 02-17-31.png)
-- ![alt text](images/Screenshot from 2018-02-07 02-17-51.png)
-- ![alt text](images/Screenshot from 2018-02-07 02-17-57.png)
-- ![alt text](images/Screenshot from 2018-02-07 02-18-01.png)
+- ![alt text](images/Screenshot-from-2018-02-07-02-09-34.png)
+- ![alt text](images/Screenshot-from-2018-02-07-02-16-14.png)
+- ![alt text](images/Screenshot-from-2018-02-07-02-17-31.png)
+- ![alt text](images/Screenshot-from-2018-02-07-02-17-51.png)
+- ![alt text](images/Screenshot-from-2018-02-07-02-17-57.png)
+- ![alt text](images/Screenshot-from-2018-02-07-02-18-01.png)
 
 - ### Store the test image in the bucket
 - ![alt text](images/4-flower-wallpaper.preview.jpg)
